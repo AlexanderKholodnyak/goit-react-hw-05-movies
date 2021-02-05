@@ -1,0 +1,1 @@
+export { defuult } from './FilmsView';
